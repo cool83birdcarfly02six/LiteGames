@@ -1,7 +1,35 @@
 if game.PlaceId == 10772052398 then --- Defender Depot 2
-loadstring(game:HttpGet(('https://paste.ee/r/BZFqA'),true))()
+    loadstring(game:HttpGet(('https://paste.ee/r/BZFqA'),true))()
 
-    elseif game.PlaceId == 7584496019 then --- 99% Fail Obby
-loadstring(game:HttpGet(('https://paste.ee/r/8yS9C'),true))()
+elseif game.PlaceId == 7584496019 then --- 99% Fail Obby
+    loadstring(game:HttpGet(('https://paste.ee/r/8yS9C'),true))()
 
+elseif game.PlaceId == 7952502098 then --- Impossible Glass Bridge Obby! (Squid Game)
+	loadstring(game:HttpGet(('https://paste.ee/r/9QUMS'),true))()
+
+elseif game.PlaceId == 13667319624 then --- Knockout Simulator
+ 	loadstring(game:HttpGet(('https://paste.ee/r/NiDck'),true))()
+
+elseif game.PlaceId == 14184086618 then --- Obby But You’re On a Bike
+    loadstring(game:HttpGet(('https://paste.ee/r/r96qd'),true))()
+
+elseif game.PlaceId == 14184086618 then --- Power Slap Simulator
+	loadstring(game:HttpGet(('https://paste.ee/r/9BhYY'),true))()
+
+elseif game.PlaceId == 13950108612 then --- Radiant Residents
+	loadstring(game:HttpGet(('https://paste.ee/r/lIGUm'),true))()
+
+elseif game.PlaceId == 11124905486 then --- Shoot Players Off A Map Simulator
+	loadstring(game:HttpGet(('https://paste.ee/r/JfyxT'),true))()
+
+elseif game.PlaceId == 5732301513 then --- Trenches
+ 	loadstring(game:HttpGet(('https://paste.ee/r/StYHR'),true))()
+
+elseif game.PlaceId == 9759729519 then --- All of Us Are Dead
+	loadstring(game:HttpGet(('https://paste.ee/r/J9Xyl'),true))()
+
+elseif game.PlaceId == 12996550309 then --- RunStar Simulator
+	loadstring(game:HttpGet(('https://paste.ee/r/2vf1p'),true))()
+
+ 
 end
