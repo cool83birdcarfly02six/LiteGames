@@ -31,5 +31,9 @@ elseif game.PlaceId == 9759729519 then --- All of Us Are Dead
 elseif game.PlaceId == 12996550309 then --- RunStar Simulator
 	loadstring(game:HttpGet(('https://paste.ee/r/2vf1p'),true))()
 
+ elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
+	loadstring(game:HttpGet(('https://paste.ee/r/ysncg'),true))()
+
+
  
 end
