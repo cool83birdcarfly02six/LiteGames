@@ -37,6 +37,8 @@ elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
 elseif game.PlaceId == 11063612131 then --- Every Second You Get +1 Jump Power
 	loadstring(game:HttpGet(('https://paste.ee/r/FczXR'),true))()
 
+elseif game.PlaceId == 13447209899 then --- Z Battlegrounds
+	loadstring(game:HttpGet(('https://paste.ee/r/Sy2Fk'),true))()
 
  
 end
