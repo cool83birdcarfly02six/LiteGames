@@ -35,7 +35,7 @@ elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
 	loadstring(game:HttpGet(('https://paste.ee/r/ysncg'),true))()
 
 elseif game.PlaceId == 11063612131 then --- Every Second You Get +1 Jump Power
-	loadstring(game:HttpGet(('https://paste.ee/r/FczXR'),true))()
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/-Every-Second-You-Get-1-Jump-Power/main/README.md'),true))()
 
 elseif game.PlaceId == 13447209899 then --- Z Battlegrounds
 	loadstring(game:HttpGet(('https://paste.ee/r/Yi7Ka'),true))()
