@@ -10,8 +10,8 @@ elseif game.PlaceId == 7952502098 then --- Impossible Glass Bridge Obby! (Squid 
 elseif game.PlaceId == 13667319624 then --- Knockout Simulator
  	loadstring(game:HttpGet(('https://paste.ee/r/NiDck'),true))()
 
-elseif game.PlaceId == 14184086618 then --- Obby But You’re On a Bike
-    loadstring(game:HttpGet(('https://paste.ee/r/r96qd'),true))()
+elseif game.PlaceId == 1962086868 or 3582763398 then --- Tower Of Hell
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Toh/main/README.md'),true))()
 
 elseif game.PlaceId == 14184086618 then --- Power Slap Simulator
 	loadstring(game:HttpGet(('https://paste.ee/r/9BhYY'),true))()
