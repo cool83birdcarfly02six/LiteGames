@@ -32,7 +32,7 @@ elseif game.PlaceId == 12996550309 then --- RunStar Simulator
 	loadstring(game:HttpGet(('https://paste.ee/r/2vf1p'),true))()
 
 elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
-	loadstring(game:HttpGet(('https://paste.ee/r/ysncg'),true))()
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Go-Kart-Race-Simulator/main/README.md'),true))()
 
 elseif game.PlaceId == 11063612131 then --- Every Second You Get +1 Jump Power
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/-Every-Second-You-Get-1-Jump-Power/main/README.md'),true))()
