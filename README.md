@@ -4,6 +4,9 @@ if game.PlaceId == 10772052398 then --- Defender Depot 2
 elseif game.PlaceId == 7584496019 then --- 99% Fail Obby
     loadstring(game:HttpGet(('https://paste.ee/r/8yS9C'),true))()
 
+elseif game.PlaceId == 11063612131 then --- Every Second You Get +1 Jump Power
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/-Every-Second-You-Get-1-Jump-Power/main/README.md'),true))()
+
 elseif game.PlaceId == 7952502098 then --- Impossible Glass Bridge Obby! (Squid Game)
 	loadstring(game:HttpGet(('https://paste.ee/r/9QUMS'),true))()
 
@@ -33,9 +36,6 @@ elseif game.PlaceId == 12996550309 then --- RunStar Simulator
 
 elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Go-Kart-Race-Simulator/main/README.md'),true))()
-
-elseif game.PlaceId == 11063612131 then --- Every Second You Get +1 Jump Power
-	loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/-Every-Second-You-Get-1-Jump-Power/main/README.md'),true))()
 
 elseif game.PlaceId == 13447209899 then --- Z Battlegrounds
 	loadstring(game:HttpGet(('https://paste.ee/r/Yi7Ka'),true))()
