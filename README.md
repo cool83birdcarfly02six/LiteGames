@@ -10,4 +10,6 @@ elseif game.PlaceId == 15338697306 then --- Go Kart Race Simulator
 elseif game.PlaceId == 10772052398 then --- Defender's Depot 2 Tower Defense
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Defender-Depot-2/main/README.md'),true))()
 
+elseif game.PlaceId == 16993432698 then --- Impossible Squid Game! Glass Bridge 2
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Impossible-Squid-Game-Glass-Bridge-2/main/README.md'),true))()
 end
